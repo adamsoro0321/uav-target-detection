@@ -1,0 +1,7 @@
+
+train: visdrone/car/images/train
+val: visdrone/car/images/val
+test: visdrone/car/images/test
+
+nc: 1  # nombre de classes
+names: ['car']
