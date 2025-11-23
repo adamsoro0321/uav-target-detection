@@ -1,7 +1,7 @@
 
-train: visdrone/car/images/train
-val: visdrone/car/images/val
-test: visdrone/car/images/test
+train: dataset/visdrone/images/train
+val: dataset/visdrone/images/val
+test: dataset/visdrone/images/test
 
 nc: 1  # nombre de classes
 names: ['car']

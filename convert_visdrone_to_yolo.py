@@ -3,7 +3,7 @@ from tqdm import tqdm
 from PIL import Image
 
 # chemins
-base_dir = "visdrone"
+base_dir = "dataset/visdrone"
 splits = ["train", "val"]
 
 # classes visdrone (0 ignoré)

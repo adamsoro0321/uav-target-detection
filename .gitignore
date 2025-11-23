@@ -9,6 +9,8 @@ __pycache__/
 visdrone/
 venv/
 runs/
+datasets/
+dataset/
 
 # Distribution / packaging
 .Python
